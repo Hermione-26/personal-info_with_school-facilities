@@ -1,0 +1,41 @@
+
+h1 {
+    background-color: #d6eaf8 ;
+    font-family: "Times New Roman";
+    text-align: left;
+    
+}
+h2 {
+    border-left: 5px solid #1b4f72 ;
+    text-align: left;
+}
+p1 {
+    font-family: "Lucida Console";
+    font-size: 15px;
+    
+}
+p2 {
+    font-family: "Lucida Console";
+    text-align: justify;
+    font-size: 15px;
+}
+p3 {
+    font-family: "Lucida Console";
+    text-align: justify;
+    font-size: 15px;
+}
+p4 {
+    font-family: 'Courier New', Monospace;
+    font-size: 20px;
+}
+my-box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+}
+.red {
+    color:darkblue;
+}
