@@ -1,0 +1,75 @@
+.div1 {
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px black, 0 0 5px rgb(0, 0, 0), 0 1px rgb(7, 7, 7);
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 15%;
+    padding: 20px;
+    font-size: 17px;
+}
+
+.personal-info {
+    font-family: "Lucida Console";
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+h1 {
+    background-color: #d6eaf8;
+    font-family: "Times New Roman";
+    text-align: left;
+    padding: 10px;
+}
+
+h2 {
+    border-left: 5px solid #1b4f72;
+    text-align: left;
+    display: inline; /* Makes the name inline with the picture */
+    margin-right: 20px; /* Adds space between the name and the picture */
+}
+
+.info-name {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.picture {
+    background-color: white;
+    border: solid 3px black;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-left: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+p {
+    font-family: "Lucida Console";
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+ul {
+    font-family: "Lucida Console";
+    font-size: 17px;
+    line-height: 1.6;
+}
+p4 {
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.pfp {
+    border-radius: 50%;
+}
